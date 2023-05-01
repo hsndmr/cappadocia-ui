@@ -12,3 +12,6 @@ yarn-error.log*
 .eslintcache
 dist
 storybook-static
+tsconfig.doc.tsbuildinfo
+vite.config.js
+vite.config.d.ts
