@@ -2,5 +2,5 @@
 @tailwind components;
 @tailwind utilities;
 html.dark {
-    @apply bg-gray-950 text-gray-light;
+  @apply bg-gray-950 text-gray-light;
 }
