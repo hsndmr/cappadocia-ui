@@ -1,0 +1,7 @@
+**/*.md
+**/build/
+**/coverage/
+lib/
+
+!src/docs/
+!src/lib/

@@ -1,0 +1,10 @@
+node_modules
+src
+tsconfig.json
+.eslintignore
+.idea
+.gitignore
+.husky
+.prettierignore
+index.html
+dist
