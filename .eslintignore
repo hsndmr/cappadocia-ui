@@ -5,3 +5,4 @@ storybook-static
 dist
 .eslintrc.js
 index.html
+commitlint.config.js
