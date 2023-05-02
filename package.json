@@ -21,7 +21,8 @@
     "test:coverage": "vitest run --coverage",
     "test:open": "vitest --ui",
     "dev": "tsc -p tsconfig.doc.json && vite",
-    "build:docs": "tsc -p tsconfig.doc.json && vite build"
+    "build:docs": "tsc -p tsconfig.doc.json && vite build",
+    "prepare": "husky install"
   },
   "author": "",
   "license": "ISC",
