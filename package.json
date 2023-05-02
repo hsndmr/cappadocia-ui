@@ -1,6 +1,6 @@
 {
   "name": "cappadocia-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cappadocia UI is a React UI library built with TailwindCSS",
   "files": [
     "./lib/",
