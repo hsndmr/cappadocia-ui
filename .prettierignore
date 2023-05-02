@@ -2,6 +2,12 @@
 **/build/
 **/coverage/
 lib/
+vite.config.js
+vite.config.d.ts
+storybook-static
+dist
+.eslintrc.js
+index.html
 
 !src/docs/
 !src/lib/
