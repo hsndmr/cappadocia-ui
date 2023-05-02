@@ -18,7 +18,7 @@ const Header = () => {
             customSize={{
               button: 'w-7 h-7 p-1 text-xl',
             }}
-            href="https://storybook.cappadocia-ui.com"
+            href="https://cappadocia-ui.com/storybook"
           >
             <SiStorybook />
           </Button>
