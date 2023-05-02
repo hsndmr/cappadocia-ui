@@ -1,5 +1,4 @@
 import ButtonPage from './pages/ButtonPage/ButtonPage';
-import HomePage from './pages/HomePage';
 
 export interface RouteProps {
   path: string;
@@ -10,11 +9,6 @@ export interface RouteProps {
 const routes: RouteProps[] = [
   {
     path: '/',
-    title: 'Home',
-    component: HomePage,
-  },
-  {
-    path: '/button',
     title: 'Button',
     component: ButtonPage,
   },
